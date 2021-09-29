@@ -33,13 +33,14 @@
 ## List of Pages
 - Project 
 ### Project Description
-	- Picture
-	- Global Crisis - '''
-	-  Numbers (Caracils)
-	- Treatment
-	- Numbers (Caracils)
-	- Our solution
-	- References
+- Picture
+- Global Crisis - '''
+-  Numbers (Caracils)
+- Treatment
+- Numbers (Caracils)
+- Our solution
+- References
+
 - Design
 - Modelling
 - Experiments
