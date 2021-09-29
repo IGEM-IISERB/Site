@@ -2,14 +2,14 @@
 
 
 ## COMMON WEBSITE STUFF
-	- Theme - color, common styling etc.
-	- Footer Template
-	- Social media handles
-	- Team name logo and tagline
-	- Navigation bar 
-	- Pictures 
-	- Loader
-	- Accessibility - screen reader and voice over 
+- Theme - color, common styling etc.
+- Footer Template
+- Social media handles
+- Team name logo and tagline
+- Navigation bar 
+- Pictures 
+- Loader
+- Accessibility - screen reader and voice over 
 
 ## FIRST PAGE (HOMEPAGE)
 - Logo - Title (Facts of ... behind - short video)
