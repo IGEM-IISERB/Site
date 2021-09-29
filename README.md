@@ -4,6 +4,7 @@
 ## COMMON WEBSITE STUFF
 - Theme 
 	- color
+
 |color|hex code or rgb|
 |----|----|
 |Pink|#D83F87|
@@ -11,6 +12,7 @@
 |Blue|#44318D|
 |Purple|#ED8074|
 |Grey|#A4B3B6|
+
 	- common styling
 - Footer Template
 - Social media handles
