@@ -3,6 +3,7 @@
 
 ## COMMON WEBSITE STUFF
 - Theme 
+	- common styling
 	- color
 
 |color|hex code or rgb|
@@ -13,7 +14,6 @@
 |Purple|#ED8074|
 |Grey|#A4B3B6|
 
-	- common styling
 - Footer Template
 - Social media handles
 - Team name logo and tagline
