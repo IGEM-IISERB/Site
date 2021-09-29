@@ -31,65 +31,61 @@
 	- NavBar
 
 ## List of Pages
-	- Project 
-	### Project Description
-		- Picture
-		- Global Crisis - '''
-		-  Numbers (Caracils)
-		- Treatment
-		- Numbers (Caracils)
-		- Our solution
-		- References
-	- Design
-	- Modelling
-	- Experiments
-	- Results
-	- Engineering success
-	- Notebook 
-
-	## Implementation 
-		- Implementation techniques 
-		- Supporting entrepreneurship
-
-	## Parts 
-		- Contribution
-		- Improvement 
-
-	## Human practices 
-		- Overview 
-		- IHP 
-		- Sci. Comm
-		- Collaboration
-	## Collaborations
-		- Safety
-		- Achievements 
-
+- Project 
+### Project Description
+	- Picture
+	- Global Crisis - '''
+	-  Numbers (Caracils)
+	- Treatment
+	- Numbers (Caracils)
+	- Our solution
+	- References
+- Design
+- Modelling
+- Experiments
+- Results
+- Engineering success
+- Notebook 
+### Implementation 
+	- Implementation techniques 
+	- Supporting entrepreneurship
+### Parts 
+	- Contribution
+	- Improvement 
+### Human practices 
+	- Overview 
+	- IHP 
+	- Sci. Comm
+	- Collaboration
+### Collaborations
+	- Safety
+	- Achievements 
 	- Judging Form
-	- Team 
-		- Team members
+### Team 
+	- Team members
 	- Attributors
 
-## Resources
+### Resources
 * https://d3js.org/
 * https://visme.co/blog/website-color-schemes/ (16,12,20)
 * https://nicepage.com/
 
 #### Basic template 
-1. https://bootstrapmade.com/demo/TheEvent/
-2. https://bootstrapmade.com/demo/Bocor/ (portfolio, maybe dropdown)
-3. https://bootstrapmade.com/demo/Anyar/ (dropdown)
+* https://bootstrapmade.com/demo/TheEvent/
+* https://bootstrapmade.com/demo/Bocor/ (portfolio, maybe dropdown)
+* https://bootstrapmade.com/demo/Anyar/ (dropdown)
 
 #### Footer 
-	- TU Leiden - https://2020.igem.org/Team:Leiden (about us, follow us, contact us)
-	- Barcelona - https://2020.igem.org/Team:UPF_Barcelona#promovideo (effects of follow us, icons of social media sites)
+* TU Leiden - https://2020.igem.org/Team:Leiden (about us, follow us, contact us)
+* Barcelona - https://2020.igem.org/Team:UPF_Barcelona#promovideo (effects of follow us, icons of social media sites)
 
-#### Navbar - 
-1. https://2020.igem.org/Team:SDU-Denmark
-2. https://2020.igem.org/Team:Waterloo
-3. https://2020.igem.org/Team:Leiden#
+#### Navbar 
+* https://2020.igem.org/Team:SDU-Denmark
+* https://2020.igem.org/Team:Waterloo
+* https://2020.igem.org/Team:Leiden#
 
 #### Accessibility - 
-1. https://2020.igem.org/Team:Waterloo
+* https://2020.igem.org/Team:Waterloo
 
 ### Collaboration
 
